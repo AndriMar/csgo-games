@@ -1,0 +1,35 @@
+{
+  "name": "csgo-games",
+  "version": "1.0.0",
+  "description": "Get all of my games and my friends ranks and if they rank up or down",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndriMar/csgo-games.git"
+  },
+  "author": "Andri Mar Björgvinsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndriMar/csgo-games/issues"
+  },
+  "homepage": "https://github.com/AndriMar/csgo-games#readme",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "csgo": "^1.1.0",
+    "mkdirp": "^0.5.1",
+    "steam": "^1.4.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^2.9.0",
+    "eslint-config-airbnb": "^9.0.0",
+    "eslint-plugin-import": "^1.7.0",
+    "eslint-plugin-jsx-a11y": "^1.2.0",
+    "eslint-plugin-react": "^5.0.1",
+    "mocha": "^2.4.5"
+  }
+}

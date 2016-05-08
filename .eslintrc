@@ -1,0 +1,15 @@
+{
+  "extends": ["airbnb"],
+  "rules": {
+    "func-names": [0],
+    "no-inline-comments": [2],
+    "arrow-body-style": [2, "always"],
+    "semi": [2, "never"],
+    "max-len": [1, 120, 4],
+    "react/jsx-curly-spacing": [1, "never"],
+    "react/require-extension": [1, { "extensions": [".js"] }]
+  },
+  "env": {
+    "es6": true
+  }
+}
