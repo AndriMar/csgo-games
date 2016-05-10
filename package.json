@@ -20,6 +20,7 @@
     "crypto": "0.0.3",
     "csgo": "^1.1.0",
     "mkdirp": "^0.5.1",
+    "progress": "^1.1.8",
     "steam": "^1.4.0",
     "underscore": "^1.8.3"
   },
